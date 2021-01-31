@@ -5,6 +5,7 @@ Custom My Tar implementation of tar archive with following functionalities:
 - Appending items to archive
 - List archive contents
 - Extract to disk from the archive
+- Error logging
 
 More specific info: 
 
